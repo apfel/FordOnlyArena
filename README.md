@@ -1,5 +1,5 @@
 # Ford-Only Arena
-Replaces all enemies in the fantasy arena with the short-haired Ford guy.
+Replaces all enemies in the fantasy arena with the short-haired Ford guy.  
 Requires [MelonLoader](https://github.com/LavaGang/MelonLoader) 0.4 and [ModThatIsNotMod](https://boneworks.thunderstore.io/package/gnonme/ModThatIsNotMod/).
 
 ## Settings
