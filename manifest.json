@@ -1,0 +1,7 @@
+{
+    "name": "FordOnlyArena",
+    "description": "Replaces enemies with Ford in the fantasy arena",
+    "version_number": "1.0.0",
+    "dependencies": [ "gnonme-ModThatIsNotMod-0.2.4" ],
+    "website_url": "https://github.com/apfel/FordOnlyArena"
+}
